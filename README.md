@@ -10,8 +10,6 @@
 
 > Currently an Postgraduate From University of Jammu
 > MCA
-> Project
-[Check out Here](https://amang9446.github.io/QR-Generator/)
 ````
 ````bash
 >--contact
@@ -20,3 +18,5 @@
 > github: Aman_here
 
 ````
+[About Me](https://amang9446.github.io/About-Aman/)
+[Qr Generator Here](https://amang9446.github.io/QR-Generator/)
