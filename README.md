@@ -15,7 +15,7 @@
 >--contact
 > telegram: @hey_its_aman
 > instagram: aaman_here__
-> github: Aman_here
+> github: Amang9446
 
 ````
 [About Me](https://amang9446.github.io/About-Aman/) </br>
