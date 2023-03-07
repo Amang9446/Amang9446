@@ -12,10 +12,10 @@
 > MCA
 ````
 ````bash
->--contact
-> telegram: @hey_its_aman
-> instagram: aaman_here__
-> github: Amang9446
+>Contact me here
+> Telegram: @hey_its_aman
+> Instagram: @aaman_here__
+> Github: Amang9446
 
 ````
 Projects :- </br>
