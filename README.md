@@ -8,7 +8,7 @@
 
 ````bash
 
-> Currently an Postgraduate From University of Jammu
+> Postgraduate From University of Jammu
 > MCA
 ````
 ````bash
@@ -18,6 +18,7 @@
 > github: Amang9446
 
 ````
+Projects :-
 [About Me](https://amang9446.github.io/About-Aman/) </br>
 [Qr Generator Here](https://amang9446.github.io/QR-Generator/) </br>
 [Tic-Tac-Toe](https://amang9446.github.io/Tic-Tac-Toe/)
