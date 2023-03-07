@@ -8,10 +8,10 @@
 
 ````bash
 
-> Currently an postgraduate MCA From University of Jammu
+> Currently an Postgraduate From University of Jammu
 ````
 ````bash
-> help --contact
+>--contact
 > telegram: @hey_its_aman
 > instagram: aaman_here__
 > github: Aman_here
