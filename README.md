@@ -2,13 +2,13 @@
   <samp>
     I'm Aman :wave:
     <br />
-    A CS Student <br>
+    Software Developer <br>
   </samp>
   <br />
 
 ````bash
 
-> Postgraduate From University of Jammu
+> Postgraduated From University of Jammu
 > MCA
 ````
 ````bash
