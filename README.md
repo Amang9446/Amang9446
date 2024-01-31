@@ -18,7 +18,3 @@
 > Github: Amang9446
 
 ````
-Projects :- </br>
-[About Me](https://amang9446.github.io/About-Aman/) </br>
-[Tic-Tac-Toe](https://amang9446.github.io/Tic-Tac-Toe/) </br>
-[Qr-Code-Generator](https://amang9446.github.io/QR-Code-Generator/) </br>
